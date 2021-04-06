@@ -1,1 +1,1 @@
-# convertStringUpperLowerCase
+# Преобразовывание строки в верхний/нижний регистр
